@@ -7,3 +7,5 @@
 
 Please refer the project demo slides below:
 https://github.com/vedantbhoj/Security-based-Face-Recognition/blob/master/FACE%20RECOGNITION%20Final.pdf
+
+Video Link for the Demo - https://youtu.be/ijZ7sdxD0Xo
