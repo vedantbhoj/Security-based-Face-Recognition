@@ -1,0 +1,21 @@
+
+%  gaborArray = gaborFilterBank(5,8,39,39);
+% img=imread('E:\PROJECT\papers\pics\8.tiff');
+% img=imresize(img,[512 512]);
+% featureVector = gaborFeatures(img,gaborArray,4,4);
+%
+
+
+for i = 1:40
+    
+    chi = distChiSq(hist_data(:,i), hist_data(:,i));
+    D2(i)=mean2(chi);
+end
+
+for i=1:3
+    
+ss(i) = min(match1(i,:));
+
+end
+
+match2 = min(ss);
