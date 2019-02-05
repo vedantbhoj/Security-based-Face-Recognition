@@ -1,4 +1,4 @@
-# Security-based-Face-Recognition
+# Security-based-face-recognition
 -> Objective of this project was to develop a fast and robust face recognition system that is invariant to changes such as illumination, expressions and occlusions by exploring features in image - space, scale and orientation. 
 
 -> Algorithm was based on Local Gabor binary pattern histogram sequence (LGBPHS) for improved feature matching and efficiency. 
