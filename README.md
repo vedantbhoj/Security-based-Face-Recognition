@@ -5,6 +5,8 @@
 
 -> Used MATLAB with Image Processing Tool Box to implement the project.
 
+Complete Project Report - https://github.com/vedantbhoj/Security-based-Face-Recognition/blob/master/Project%20Report.pdf
+
 Please refer the project demo slides below:
 https://github.com/vedantbhoj/Security-based-Face-Recognition/blob/master/FACE%20RECOGNITION%20Final.pdf
 
