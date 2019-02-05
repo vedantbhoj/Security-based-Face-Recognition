@@ -8,6 +8,9 @@
 # Project Report:
 https://github.com/vedantbhoj/Security-based-Face-Recognition/blob/master/Project%20Report.pdf
 
+# IEEE inter-college paper presentation competition:
+https://github.com/vedantbhoj/Security-based-Face-Recognition/blob/master/Security%20based%20space%2Cscale%20and%20orientation%20in%20variance%20for%20human%20face%20detection.pdf
+
 # Project demo slides:
 https://github.com/vedantbhoj/Security-based-Face-Recognition/blob/master/FACE%20RECOGNITION%20Final.pdf
 
