@@ -5,12 +5,14 @@
 
 -> Used MATLAB with Image Processing Tool Box to implement the project.
 
-# Complete Project Report - https://github.com/vedantbhoj/Security-based-Face-Recognition/blob/master/Project%20Report.pdf
+# Project Report:
+https://github.com/vedantbhoj/Security-based-Face-Recognition/blob/master/Project%20Report.pdf
 
-# Please refer the project demo slides below:
-# https://github.com/vedantbhoj/Security-based-Face-Recognition/blob/master/FACE%20RECOGNITION%20Final.pdf
+# Project demo slides:
+https://github.com/vedantbhoj/Security-based-Face-Recognition/blob/master/FACE%20RECOGNITION%20Final.pdf
 
-# Video Link for the Demo - https://youtu.be/ijZ7sdxD0Xo
+# Video Link for the Demo:
+https://youtu.be/ijZ7sdxD0Xo
 
 # Refrences:
 1) Zhen Lei, Shengcai Liao, Matti Pietikäinen, “Face Recognition by Exploring Information Jointly in Space, Scale and Orientation” IEEE TRANSACTIONS ON  IMAGE PROCESSING, VOL. 20, NO. 1, JANUARY 2011.
